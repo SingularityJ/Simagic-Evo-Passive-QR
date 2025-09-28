@@ -1,6 +1,8 @@
 # Simagic-Evo-Passive-QR
 Simple passive QR for simagic Evo
 
+20250928_223840.jpg
+
 This is a very simple QR to provide USB passthrough for the EVO bases.
 
 IMPORTANT: the total height of your pcb+pogo pins should be 7.4mm, so if you order 1.6mm pcb, you will need 6mm pogo pins, or you could use 5mm and 3d print a spacer to be exact. both pogo pins and base side pcb are spring loaded so there should be some tolerance, but get as close as possible.
